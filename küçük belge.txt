@@ -1,3 +1,8 @@
 bu gün başlangıç 
 komut hazır 
 olucak 
+
+
+
+
+test branchı için küçük değişiklik 
